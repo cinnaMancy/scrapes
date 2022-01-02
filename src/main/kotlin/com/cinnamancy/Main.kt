@@ -1,3 +1,5 @@
+package com.cinnamancy
+
 fun main() {
-    print("Hello")
+    Scraper().start()
 }
